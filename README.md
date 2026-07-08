@@ -19,6 +19,10 @@ And Follow These Steps
 
 5.Go Back Until You See **Developer options** Click On That And You Completed The **Activating Developer Options**
 
-Lets Firstly Set **Logger Buffer Sizes**
+Lets Firstly Set **Logger Buffer Sizes** ⚠**BECAREFULL FOR GUARANTEE IM NOT RESPONSABLE FOR GUARANTEE WHEN BECOME VOID, DO AT YOUR OWN RISK!**
 
 [![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
+
+After Doing That You **DISABLED** Recording Logs It'll Become More Faster Lets Come To System Tracing **Watch Video For Tutorial**
+
+[![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
