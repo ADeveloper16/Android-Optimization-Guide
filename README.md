@@ -18,3 +18,7 @@ And Follow These Steps
 4.You'll See A Message Saying **Developer Mode Has Been Enabled!**
 
 5.Go Back Until You See **Developer options** Click On That And You Completed The **Activating Developer Options**
+
+Lets Firstly Set **Logger Buffer Sizes**
+
+[Screen_Recording_20260708_201056_Settings.mp4]
