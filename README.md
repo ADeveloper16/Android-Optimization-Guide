@@ -46,6 +46,6 @@ And Debloat Them. ⚠**IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT 
 
 And Dont Forget To Have An Open Source Light Apps While You Debloated All Unused I Will Give Best Apps To Use **RECOMMENDED APPS TO USE**
 
-1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a stylish Mail app that runs on minimal on RAM, though it can be a bit hard to set up as it uses MD3E.
-
-2.
+1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a Mail app that runs on minimal on RAM, a bit hard to set up it uses MD3E.
+2. * **[Nouto](https://github.com/HotarunIchijou/Nouto/releases/tag/1.1.0)** - Notes App with MD3E It Usually Good It Doesnt Use So Much RAM Like Other Official Apps.
+3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** - Good For Gemini Or Bixby Alternative It Generally Lighter
