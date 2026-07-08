@@ -34,5 +34,16 @@ Let's Set **Suspend Execution For Cached Apps** **WHAT IT WILL DO? It Will Resta
 
 **Were Done Here Now We Will Have To Contiune With Shizuku** **WELL IM UNABLE TO HELP ON THIS ONE SORRY! TRY TO FIND AN TUTO ON YOUTUBE**
 
-🗑Canta Debloat List: Please Select **Bixby,Chrome,Crocro And Friends,Customisation Service,Galaxy Avatar,Gmail,Link To Windows,Link To Windows Service,Maps,Meet,Meta App Installer,Meta App Manager,Meta Services,Microsoft Swiftkey Factory Settings,Microsoft Swiftkey,Netflix,OneDrive,Parental Controls,Personal Data Intelligence,Recommended Apps,Samsung Kids Installer,Samsung News,Smart Switch,Speech Synthesis From Google,System Parental Controls,Voice Wake Up,WiFi Tips** And Debloat Them
+### 📋 Debloat List
+| Category | Apps |
+| :--- | :--- |
+| **Samsung Bloat** | Bixby, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
+| **Google/Meta** | Chrome, Gmail, Maps, Meet, Meta App Installer, Meta App Manager, Meta Services |
+| **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
+| **System/Other** | Link To Windows, Speech Synthesis, Voice Wake Up, WiFi Tips |
 
+And Debloat Them. ⚠**IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT THEM** 
+
+And Dont Forget To Have An Open Source Light Apps While You Debloated All Unused I Will Give Best Apps To Use **RECOMMENDED APPS TO USE**
+
+1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a stylish app that runs on minimal RAM, though it can be a bit hard to set up as it uses MD3E.
