@@ -21,3 +21,4 @@ And Follow These Steps
 
 Lets Firstly Set **Logger Buffer Sizes**
 
+[![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
