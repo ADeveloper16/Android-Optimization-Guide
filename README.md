@@ -37,10 +37,10 @@ Let's Set **Suspend Execution For Cached Apps** **WHAT IT WILL DO? It Will Resta
 ### 📋 Debloat List
 | Category | Apps |
 | :--- | :--- |
-| **Samsung Bloat** | Bixby, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
+| **Samsung Bloat** | Bixby, Voice Wake Up, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
 | **Google/Meta** | Chrome, Gmail, Maps, Meet, Meta App Installer, Meta App Manager, Meta Services |
 | **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
-| **System/Other** | Link To Windows, Speech Synthesis, Voice Wake Up, WiFi Tips |
+| **System/Other** | Link To Windows, Speech Synthesis, WiFi Tips |
 
 And Debloat Them. ⚠**IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT THEM** 
 
