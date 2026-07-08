@@ -21,4 +21,4 @@ And Follow These Steps
 
 Lets Firstly Set **Logger Buffer Sizes**
 
-[Screen_Recording_20260708_201056_Settings.mp4]
+[🎥 Logger Buffer Size Ayarı İçin Tıkla](https://github.com/ADeveloper16/Optimizing-Phone-Android-Only/blob/main/Screen_Recording_20260708_201056_Settings.mp4)
