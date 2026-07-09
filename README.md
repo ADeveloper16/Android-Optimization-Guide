@@ -45,17 +45,21 @@ Lets start by changing **Logger buffer sizes** ⚠ **WARNING**: Changing develop
 
 [![Watch the video below to find this option:](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
 
-Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary. **Watch Video For Tutorial**
+Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary.
+
+**Watch the video's below for a tutorial.**
 
 ### System tracing
 
 [![Watch the video below to find this option:](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
 
-### Suspend Execution For Cached Apps
+### Suspend Execution for Cached Apps
 
-Let's Turn On **Suspend Execution For Cached Apps** For Performance. What It Will Do? It Will Restart Your Phone To Apply That Setting. What Will Happen? You'll Get Performance Boost When Launching Games Or Any App Because It Won't Load Cached Apps In Background Anymore!
+Let's enable **Suspend Execution for Cached Apps** After enabling this option device may need to restart to apply the change.
 
-[![Click To See That Option](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
+This setting allows Android to pause cached apps when they are not being used. The effect on performance can vary depending on your device and usage
+
+[![Watch the video below to find this option:](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
 
 ### Shizuku Setup
 
