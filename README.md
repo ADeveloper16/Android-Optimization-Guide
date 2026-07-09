@@ -91,3 +91,4 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - Generally a good alternative as calculator minimal on RAM Usage
 5. * **[FUTO Voice Input](https://github.com/futo-org/voice-input)** <img src="logos/fvinput-modified.png" width="18" height="18" valign="middle"> - Lightweight offline voice input to replace Google's Speech Synthesis. It's very good you get offline abilities while Google's Speech Synthesis is only online.
 6. * **[Translator](https://github.com/DavidVentura/offline-translator/releases/tag/v0.7.2)** <img src="logos/offtranslator%20logo-modified.png" width="18" height="18" valign="middle"> - I prefer this as translator its offline and very reliable when you dont have internet
+10. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79)
