@@ -76,7 +76,7 @@ And Don't Forget To Have An Open Source Light Apps While You Debloated All Unuse
 ## Recommended Apps To Use
 
 1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a Mail app that runs on minimal on RAM, a bit hard to set up it uses MD3E.
-2. * **[Nouto](https://github.com/HotarunIchijou/Nouto/releases/tag/1.1.0)** - Notes app with MD3E it usually good it does'nt use's so much RAM
+2. * **[Nouto](https://github.com)** <img src="logos/nouto%20logo.png" width="18" height="18" valign="middle"> - Notes app with MD3E it usually good it doesn't use's so much RAM
 3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** ![SpeakGPT Logo](logos/logo%20speakgpt.png) - Good for Gemini or Bixby alternative it generally lighter.
 4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - Generally a good alternative as calculator minimal on RAM Usage
 5. * **[FUTO Voice Input](https://github.com/futo-org/voice-input)** - Lightweight offline voice input to replace Google's Speech Synthesis. It's very good you get offline abilities while Google's Speech Synthesis is only online.
