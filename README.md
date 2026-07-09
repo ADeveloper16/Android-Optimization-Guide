@@ -55,7 +55,7 @@ Let's Turn On **Suspend Execution For Cached Apps** For Performance. What It Wil
 
 ### Shizuku Setup
 
-We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To Debloat System Apps Without Rooting Your Device. You Can Download It From F-Droid Or GitHub. It Requires ADB Setup On Your Computer But It's Worth It For Advanced Debloating! **Find Tutorial On YouTube For Detailed Steps**
+We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To Debloat System Apps Without Rooting Your Device. You Can Download It From [Shizuku](https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0). It Requires ADB Setup On Your Computer But It's Worth It For Advanced Debloating! **Find Tutorial On YouTube For Detailed Steps**
 
 ---
 
