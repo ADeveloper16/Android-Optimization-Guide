@@ -28,7 +28,7 @@ After Doing That You **DISABLED** Recording Logs It'll Become More Faster Lets C
 
 [![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
 
-Let's Set **Suspend Execution For Cached Apps** **WHAT IT WILL DO? It Will Restart Your Phone To Apply That Setting | WHAT WILL HAPPEN? You'll Get Performance Boost When Launching Games Or Any Apps** **Watch The Tuto Vid To See That Option**
+Let's Turn On **Suspend Execution For Cached Apps** For Performance **WHAT IT WILL DO? It Will Restart Your Phone To Apply That Setting | WHAT WILL HAPPEN? You'll Get Performance Boost When Launching Games Or Any Apps** **Watch The Tuto Vid To See That Option**
 
 [![Click To See That Option](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
 
@@ -47,5 +47,7 @@ And Debloat Them. ⚠**IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT 
 And Dont Forget To Have An Open Source Light Apps While You Debloated All Unused I Will Give Best Apps To Use **RECOMMENDED APPS TO USE**
 
 1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a Mail app that runs on minimal on RAM, a bit hard to set up it uses MD3E.
-2. * **[Nouto](https://github.com/HotarunIchijou/Nouto/releases/tag/1.1.0)** - Notes App with MD3E It Usually Good It Doesnt Use So Much RAM Like Other Official Apps.
-3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** - Good For Gemini Or Bixby Alternative It Generally Lighter
+2. * **[Nouto](https://github.com/HotarunIchijou/Nouto/releases/tag/1.1.0)** - Notes app with MD3E it usually good it does'nt use's so much RAM
+3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** - Good for Gemini or Bixby alternative it generally lighter.
+4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - Generally a good alternative as calculator minimal on RAM Usage
+5. * **[VoiceInput](https://voiceinput.futo.org/)** - Replacing from Google's Speech Synthesis is very good you get offline abilities while Google's Speech Synthesis is only Online
