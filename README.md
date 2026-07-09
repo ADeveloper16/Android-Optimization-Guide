@@ -67,7 +67,7 @@ We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To
 
 ---
 
-## Debloat List
+## Debloat list
 | Category | Apps |
 | :--- | :--- |
 | **Samsung Bloat** | Bixby, Voice Wake Up, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
@@ -75,13 +75,15 @@ We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To
 | **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
 | **System/Other** | Link To Windows, Speech Synthesis, WiFi Tips |
 
-And Debloat Them. ⚠ **IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT THEM**
+After reviewing the list, you can remove any apps you don't use.
 
-And Don't Forget To Have An Open Source Light Apps While You Debloated All Unused. I Will Give Best Apps To Use **RECOMMENDED APPS TO USE**
+⚠ Only remove apps you don't use. Some apps may be required for certain features.
+
+After debloating unused apps, consider replacing them with lightweight open-source alternatives
 
 ---
 
-## Recommended Apps To Use
+## Recommended apps to use
 
 1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a Mail app that runs on minimal on RAM, a bit hard to set up it uses MD3E.
 2. * **[Nouto](https://github.com)** <img src="logos/nouto%20logo-modified.png" width="18" height="18" valign="middle"> - Notes app with MD3E it usually good it doesn't use's so much RAM
