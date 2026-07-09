@@ -5,7 +5,7 @@ Hello! This Is My First Repository
 1. [Enable Developer Options](#enable-developer-options)
 2. [Performance Tweaks](#performance-tweaks)
 3. [Debloat List](#debloat-list)
-4. [Recommended Apps](#recommended-apps-to-use)
+4. [Recommended Apps To Use](#recommended-apps-to-use)
 
 ---
 
@@ -49,17 +49,17 @@ After Doing That You **DISABLED** Recording Logs It'll Become More Faster Lets C
 
 ### Suspend Execution For Cached Apps
 
-Let's Turn On **Suspend Execution For Cached Apps** For Performance. What it will do? It will restart your phone to apply that setting. What will happen? You'll get performance boost when launching games or any app because it won't load cached apps in background anymore!
+Let's Turn On **Suspend Execution For Cached Apps** For Performance. What It Will Do? It Will Restart Your Phone To Apply That Setting. What Will Happen? You'll Get Performance Boost When Launching Games Or Any App Because It Won't Load Cached Apps In Background Anymore!
 
 [![Click To See That Option](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
 
 ### Shizuku Setup
 
-We're Done Here Now We Will Have To Continue With Shizuku. Shizuku allows you to debloat system apps without rooting your device. You can download it from F-Droid or GitHub. It requires ADB setup on your computer but it's worth it for advanced debloating! **Try to find a tutorial on YouTube for detailed steps**
+We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To Debloat System Apps Without Rooting Your Device. You Can Download It From F-Droid Or GitHub. It Requires ADB Setup On Your Computer But It's Worth It For Advanced Debloating! **Find Tutorial On YouTube For Detailed Steps**
 
 ---
 
-### 📋 Debloat List
+## Debloat List
 | Category | Apps |
 | :--- | :--- |
 | **Samsung Bloat** | Bixby, Voice Wake Up, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
@@ -70,6 +70,10 @@ We're Done Here Now We Will Have To Continue With Shizuku. Shizuku allows you to
 And Debloat Them. ⚠ **IF YOU USE ANY APPS ACTIVELY ON THIS LIST DO NOT DEBLOAT THEM**
 
 And Don't Forget To Have An Open Source Light Apps While You Debloated All Unused. I Will Give Best Apps To Use **RECOMMENDED APPS TO USE**
+
+---
+
+## Recommended Apps To Use
 
 1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - It's a Mail app that runs on minimal on RAM, a bit hard to set up it uses MD3E.
 2. * **[Nouto](https://github.com/HotarunIchijou/Nouto/releases/tag/1.1.0)** - Notes app with MD3E it usually good it does'nt use's so much RAM
