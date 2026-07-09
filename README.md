@@ -1,53 +1,55 @@
-# Optimizing-Phone-Android-Only
+# Optimizing-phone-Android-Only
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ADeveloper16/Optimizing-Phone-Android-Only)](https://github.com/ADeveloper16/Optimizing-Phone-Android-Only/commits)[![GitHub last commit](https://img.shields.io/github/last-commit/ADeveloper16/Optimizing-Phone-Android-Only)](https://github.com/ADeveloper16/Optimizing-Phone-Android-Only/commits)
 
-Hello! This Is My First Repository
+Hello! This is my first repository
 
-## 📋 Table Of Contents
-1. [Enable Developer Options](#enable-developer-options)
-2. [Performance Tweaks](#performance-tweaks)
-3. [Debloat List](#debloat-list)
-4. [Recommended Apps To Use](#recommended-apps-to-use)
+## 📋 Table of contents
+1. [Enable Developer options](#enable-developer-options)
+2. [Performance tweaks](#performance-tweaks)
+3. [Debloat list](#debloat-list)
+4. [Recommended apps to use](#recommended-apps-to-use)
 
 ---
 
-## Enable Developer Options
+## Enable Developer options
 
-Before Starting Lets Enable The Android Developer Options
+Before starting lets enable Android Developer options
 
 ### 📱 On Samsung
 
-⚙ To Activate It Please Go To Settings
+⚙ Before we begin you'll need to enable Developer options.
 
-And Follow These Steps
+1. Open **Settings**.
 
-1. Scroll Down Until You Will Find **About phone** Option Press On It
+2. Tap **About phone**.
 
-2. Now You'll Have To Found **Software information** Option Press On It
+3. Tap **Software information**.
 
-3. Press **Build number** 7 Times In A Row If You Have A Screen Lock Type Your Screen Lock
+4. Tap **Build number** seven times.
 
-4. You'll See A Message Saying **Developer Mode Has Been Enabled!**
+5. If prompted, enter your screen lock
 
-5. Go Back Until You See **Developer options** Click On That And You Completed The **Activating Developer Options**
+6. A message will appear confirming that Developer options have been enabled.
+
+7. Return to the main  **Settings** menu.
+
+8. Tap **Developer options**.
 
 ---
 
-## Performance Tweaks
+## Performance tweaks
 
-### Logger Buffer Sizes
+### Logger buffer sizes
 
-Lets Firstly Set **Logger Buffer Sizes** ⚠ **BECAREFUL FOR GUARANTEE IM NOT RESPONSABLE FOR GUARANTEE WHEN BECOME VOID, DO AT YOUR OWN RISK!**
+Lets start by changing **Logger buffer sizes** ⚠ **WARNING**: Changing developer options may affect your device's behavior. Proceed only if you're comfortable making these changes.
 
-**Watch The Video For Tutorial**
+[![Watch the video below to find this option:](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
 
-[![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
+Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary. **Watch Video For Tutorial**
 
-After Doing That You **DISABLED** Recording Logs It'll Become More Faster Lets Come To System Tracing **Watch Video For Tutorial**
+### System tracing
 
-### System Tracing
-
-[![Please Watch This Video To How To See That Option](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
+[![Watch the video below to find this option:](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
 
 ### Suspend Execution For Cached Apps
 
