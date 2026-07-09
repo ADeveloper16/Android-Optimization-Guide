@@ -1,4 +1,5 @@
 # Optimizing-Phone-Android-Only
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ADeveloper16/Optimizing-Phone-Android-Only)](https://github.com/ADeveloper16/Optimizing-Phone-Android-Only/commits)[![GitHub last commit](https://img.shields.io/github/last-commit/ADeveloper16/Optimizing-Phone-Android-Only)](https://github.com/ADeveloper16/Optimizing-Phone-Android-Only/commits)
 Hello! This Is My First Repository
 
 ## 📋 Table Of Contents
