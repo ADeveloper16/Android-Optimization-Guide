@@ -39,6 +39,7 @@ Before starting let's enable Android Developer options.
 ---
 
 ## Performance tweaks
+---
 
 ### Logger buffer sizes
 
@@ -46,25 +47,28 @@ Let's start by changing **Logger buffer sizes**.
 
 ⚠ **WARNING**: Changing developer options may affect your device's behavior. Proceed only if you're comfortable making these changes.
 
-**Watch the videos below for a tutorial**.
+**Watch the video below for a tutorial**.
+
 [![Watch the video below to find this option:](https://img.youtube.com/vi/sFqN02OOgU4/0.jpg)](https://www.youtube.com/shorts/sFqN02OOgU4)
 
 Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary.
-
+---
 ### System tracing
 
-**Watch the videos below for a tutorial**.
-[![Watch the video below to find this option:](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
+**Watch the video below for a tutorial**.
 
+[![Watch the video below to find this option:](https://img.youtube.com/vi/zEo_5j1Mnyw/0.jpg)](https://youtube.com/shorts/zEo_5j1Mnyw)
+---
 ### Suspend Execution for Cached Apps
 
 Let's enable **Suspend Execution for Cached Apps** After enabling this option, device may need to restart. to apply the change.
 
 This setting allows Android to pause cached apps when they are not being used. The effect on performance can vary depending on your device and usage.
 
-**Watch the videos below for a tutorial**.
-[![Watch the video below to find this option:](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
+**Watch the video below for a tutorial**.
 
+[![Watch the video below to find this option:](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
+---
 ### Shizuku Setup
 
 Now that were finished here, we'll continue with Shizuku. Shizuku allows you to debloat system apps without rooting your device. You can download it from [Shizuku](https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0) <img src="logos/logo%20shizuku.png" width="18" height="18" valign="middle">. It requires ADB setup on your computer but it's worth it for advanced debloating **Find Tutorial On YouTube For Detailed Steps**.
