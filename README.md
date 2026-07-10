@@ -14,7 +14,7 @@ Hello! This is my first repository
 
 ## Enable Developer options
 
-Before starting lets enable Android Developer options
+Before starting let's enable Android Developer options.
 
 ### 📱 On Samsung
 
@@ -48,7 +48,7 @@ Lets start by changing **Logger buffer sizes** ⚠ **WARNING**: Changing develop
 
 Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary.
 
-**Watch the video's below for a tutorial.**
+**Watch the videos below for a tutorial.**
 
 ### System tracing
 
@@ -92,7 +92,7 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - A simple and lightweight calculator app. It provides essential calculator features while keeping the interface clean and minimal.
 5. * **[FUTO Voice Input](https://github.com/futo-org/voice-input)** <img src="logos/fvinput-modified.png" width="18" height="18" valign="middle"> - An offline voice input solution that can replace some online voice typing services. It provides local speech recognition capabilities without relying entirely on cloud processing
 6. * **[Translator](https://github.com/DavidVentura/offline-translator/releases/tag/v0.7.2)** <img src="logos/offtranslator%20logo-modified.png" width="18" height="18" valign="middle"> - An offline translator app that works without an internet connection. Useful for translating text when network access is unavailable
-7. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79)** <img src="logos/cromite%20logo-modified.png" width="18" height="18" valign="middle"> - A privacy-focused browser based on chromium. it includes built-in ad blocking, privacy improvements, and a clean browsing experience while keeping compatibility with modern websites.
+7. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79)** <img src="logos/cromite%20logo-modified.png" width="18" height="18" valign="middle"> - A privacy-focused browser based on chromium. It includes built-in ad blocking, privacy improvements, and a clean browsing experience while keeping compatibility with modern websites.
 
 ---
 ## Credits - App Developers
