@@ -28,7 +28,7 @@ Before starting let's enable Android Developer options.
 
 4. Tap **Build number** seven times.
 
-5. If prompted, enter your screen lock
+5. If prompted, enter your screen lock.
 
 6. A message will appear confirming that Developer options have been enabled.
 
@@ -48,7 +48,7 @@ Lets start by changing **Logger buffer sizes** ⚠ **WARNING**: Changing develop
 
 Once you've finished, log recording will be disabled. On some devices, this may reduce background logging, although any performance impact can vary.
 
-**Watch the videos below for a tutorial.**
+**Watch the videos below for a tutorial**.
 
 ### System tracing
 
@@ -56,15 +56,15 @@ Once you've finished, log recording will be disabled. On some devices, this may 
 
 ### Suspend Execution for Cached Apps
 
-Let's enable **Suspend Execution for Cached Apps** After enabling this option device may need to restart to apply the change.
+Let's enable **Suspend Execution for Cached Apps** After enabling this option, device may need to restart. to apply the change.
 
-This setting allows Android to pause cached apps when they are not being used. The effect on performance can vary depending on your device and usage
+This setting allows Android to pause cached apps when they are not being used. The effect on performance can vary depending on your device and usage.
 
 [![Watch the video below to find this option:](https://img.youtube.com/vi/O2BOmCmVk64/0.jpg)](https://youtube.com/shorts/O2BOmCmVk64)
 
 ### Shizuku Setup
 
-We're Done Here Now We Will Have To Continue With Shizuku. Shizuku Allows You To Debloat System Apps Without Rooting Your Device. You Can Download It From [Shizuku](https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0) <img src="logos/logo%20shizuku.png" width="18" height="18" valign="middle">. It Requires ADB Setup On Your Computer But It's Worth It For Advanced Debloating! **Find Tutorial On YouTube For Detailed Steps**
+Now that were finished here, we'll continue with Shizuku. Shizuku allows you to debloat system apps without rooting your device. You can download it from [Shizuku](https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0) <img src="logos/logo%20shizuku.png" width="18" height="18" valign="middle">. It requires ADB setup on your computer but it's worth it for advanced debloating **Find Tutorial On YouTube For Detailed Steps**.
 
 ---
 
@@ -80,7 +80,7 @@ After reviewing the list, you can remove any apps you don't use.
 
 ⚠ Only remove apps you don't use. Some apps may be required for certain features.
 
-After debloating unused apps, consider replacing them with lightweight open-source alternatives
+After debloating unused apps, consider replacing them with lightweight open-source alternatives.
 
 ---
 
