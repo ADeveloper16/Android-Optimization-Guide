@@ -86,7 +86,7 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 
 ## Recommended apps to use
 
-1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - A lightweight email app designed witha minimal interface. It uses Material Design 3 Expressive (MD3E) and focuses on keeping resource usage low.
+1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - A lightweight email app designed with a minimal interface. It uses Material Design 3 Expressive (MD3E) and focuses on keeping resource usage low.
 2. * **[Nouto](https://github.com)** <img src="logos/nouto%20logo-modified.png" width="18" height="18" valign="middle"> - A simple notes app featuring a clean Material Design 3 Expressive interface. It is lightweight and designed for users who want a straightforward note-taking experience.
 3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** - A lightweight AI assistant alternative that can be used instead of heavier voice assistant. It provides a simple way to interact with AI features.
 4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - A simple and lightweight calculator app. It provides essential calculator features while keeping the interface clean and minimal.
