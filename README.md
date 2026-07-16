@@ -83,6 +83,7 @@ Now that were finished here, we'll continue with Shizuku. Shizuku allows you to 
 | **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
 | **System/Other** | Link To Windows, Speech Synthesis, WiFi Tips |
 
+To debloat apps i suggest you [Canta](https://github.com/samolego/Canta/releases/tag/v3.2.2)
 After reviewing the list, you can remove any apps you don't use.
 
 ⚠ Only remove apps you don't use. Some apps may be required for certain features.
