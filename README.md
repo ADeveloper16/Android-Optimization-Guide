@@ -83,7 +83,29 @@ Now that were finished here, we'll continue with Shizuku. Shizuku allows you to 
 | **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
 | **System/Other** | Link To Windows, Speech Synthesis, WiFi Tips |
 
-To debloat apps i suggest you [Canta](https://github.com/samolego/Canta/releases/tag/v3.2.2) <img src="logos/Canta.png" width="18" height="18" valign="middle">
+To debloat apps i suggest you [Canta](https://github.com/samolego/Canta/releases/tag/v3.2.2) <img src="logos/Canta.png" width="18" height="18" valign="middle">.
+
+
+If you have computer you can try ADB step by step write this command in **Linux OS**
+
+1.Firstly lets download android platform tools from your terminal copy this text paste it on terminal
+```bash
+sudo apt install adb
+```
+2.Connect your device to laptop or PC and type this exactly in your terminal
+```bash
+adb devices
+```
+3.If it doesnt show up make sure you enabled USB Debugging on developer options
+
+If it shows up your phone ID type this command 
+```bash
+adb shell pm disable-user --user 0 *package.name.here*
+```
+4.If you dont know what is the package name type
+```bash
+adb shell pm list | grep "*example: bixby,samsung,google,meta,facebook,windows*"
+```
 
 After reviewing the list, you can remove any apps you don't use.
 
