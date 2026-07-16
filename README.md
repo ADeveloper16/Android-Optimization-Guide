@@ -9,6 +9,7 @@ This repository contains Android optimization tips, performance tweaks, debloati
 3. [Debloat list](#debloat-list)
 4. [Recommended apps to use](#recommended-apps-to-use)
 5. [Credits](#credits---app-developers)
+6. [On Linux debloat tutorial](#linux-os-tutorial-adb)
 
 ---
 
@@ -86,7 +87,9 @@ Now that were finished here, we'll continue with Shizuku. Shizuku allows you to 
 To debloat apps i suggest you [Canta](https://github.com/samolego/Canta/releases/tag/v3.2.2) <img src="logos/Canta.png" width="18" height="18" valign="middle">.
 
 
-If you have computer you can try ADB step by step write this command in **Linux OS**
+If you have computer you can try ADB step by step **Linux OS**
+
+### Linux OS Tutorial Adb
 
 1.Firstly lets download android platform tools from your terminal copy this text paste it on terminal
 ```bash
