@@ -120,14 +120,12 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 
 ## Recommended apps to use
 
-1. * **[MonoMail](https://github.com/shrivatsav-0/monomail/releases/tag/v1.7.1)** - A lightweight email app designed with a minimal interface. It uses Material Design 3 Expressive (MD3E) and focuses on keeping resource usage low.
-2. * **[Nouto](https://github.com)** <img src="logos/nouto%20logo-modified.png" width="18" height="18" valign="middle"> - A simple notes app featuring a clean Material Design 3 Expressive interface. It is lightweight and designed for users who want a straightforward note-taking experience.
-3. * **[SpeakGPT](https://github.com/AndraxDev/speak-gpt/releases/tag/v4.38)** - A lightweight AI assistant alternative that can be used instead of heavier voice assistant. It provides a simple way to interact with AI features.
-4. * **[MintCalc](https://github.com/boredcodebyk/mintcalc/releases/tag/v1.1.1)** - A simple and lightweight calculator app. It provides essential calculator features while keeping the interface clean and minimal.
-5. * **[FUTO Voice Input](https://github.com/futo-org/voice-input)** <img src="logos/fvinput-modified.png" width="18" height="18" valign="middle"> - An offline voice input solution that can replace some online voice typing services. It provides local speech recognition capabilities without relying entirely on cloud processing
-6. * **[Translator](https://github.com/DavidVentura/offline-translator/releases/tag/v0.7.2)** <img src="logos/offtranslator%20logo-modified.png" width="18" height="18" valign="middle"> - An offline translator app that works without an internet connection. Useful for translating text when network access is unavailable
-7. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79)** <img src="logos/cromite%20logo-modified.png" width="18" height="18" valign="middle"> - A privacy-focused browser based on chromium. It includes built-in ad blocking, privacy improvements, and a clean browsing experience while keeping compatibility with modern websites.
-
+1. * **[Sterna Mail](https://f-droid.org/packages/app.sterna)** - A lightweight email app designed with a no bloat. It uses Material Design You (MDY) and focuses on low usage. while it can be a bit hard to setting it up
+2. * **[Easy Notes](https://f-droid.org/packages/com.kin.easynotes)** - A Simple lightweight notes app no bloat and easy to use, with Material Design You.
+3. * **[Translator](https://f-droid.org/packages/dev.davidv.translator)** <img src="logos/offtranslator%20logo-modified.png" width="18" height="18" valign="middle"> - An offline translator app that works without an internet connection. Useful for translating text when network access is unavailable
+4. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a)** <img src="logos/cromite%20logo-modified.png" width="18" height="18" valign="middle"> - A privacy-focused browser based on chromium. It includes built-in ad blocking, privacy improvements, and a clean browsing experience while keeping compatibility with modern websites.
+5. * **[Booming Music](https://f-droid.org/packages/com.mardous.booming)** - A Music player that has really useful features while keeping size ideal.
+6. * **[PassVault](https://f-droid.org/packages/com.jksalcedo.passvault)** - Ever bored about normal autofill's like Google Autofill Service and Samsung Pass? well this app brings better Password management on Browser's and supports JSON, CSV, KDBX.
 ---
 ## Credits - App Developers
 Special thanks to the developers who created these apps. All credit goes to their respective creators.
