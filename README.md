@@ -120,7 +120,7 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 
 ## Recommended apps to use
 
-1. * **[Sterna Mail](https://f-droid.org/packages/app.sterna)** <icon src="logos/iconSM.png" width="18" height="18" valign="middle"> - A lightweight email app designed with a no bloat. It uses Material Design You (MDY) and focuses on low usage. while it can be a bit hard to setting it up
+1. * **[Sterna Mail](https://f-droid.org/packages/app.sterna)** <img src="logos/iconSM.png" width="18" height="18" valign="middle"> - A lightweight email app designed with a no bloat. It uses Material Design You (MDY) and focuses on low usage. while it can be a bit hard to setting it up
 2. * **[Easy Notes](https://f-droid.org/packages/com.kin.easynotes)** <img src="logos/icongEN.png" width="18" height="18" valign="middle"> - A Simple lightweight notes app no bloat and easy to use, with Material Design You.
 3. * **[Translator](https://f-droid.org/packages/dev.davidv.translator)** <img src="logos/offtranslator%20logo-modified.png" width="18" height="18" valign="middle"> - An offline translator app that works without an internet connection. Useful for translating text when network access is unavailable
 4. * **[Cromite](https://github.com/uazo/cromite/releases/tag/v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a)** <img src="logos/cromite%20logo-modified.png" width="18" height="18" valign="middle"> - A privacy-focused browser based on chromium. It includes built-in ad blocking, privacy improvements, and a clean browsing experience while keeping compatibility with modern websites.
