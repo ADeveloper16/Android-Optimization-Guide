@@ -27,15 +27,15 @@ Before starting let's enable Android Developer options.
 
 3. Tap **Software information**.
 
-4. Tap **Build number** seven times.
+4. Tap **Build number** 7 times.
 
-5. If prompted, enter your screen lock.
+5. If prompted, please enter your screen lock to unlock Developer options.
 
 6. A message will appear confirming that Developer options have been enabled.
 
 7. Return to the main  **Settings** menu.
 
-8. Tap **Developer options**.
+8. Tap on **Developer options**.
 
 ---
 
@@ -44,7 +44,7 @@ Before starting let's enable Android Developer options.
 
 ### Logger buffer sizes
 
-Let's start by changing **Logger buffer sizes**.
+Let's start by changing the **Logger buffer sizes**.
 
 ⚠ **WARNING**: Changing developer options may affect your device's behavior. Proceed only if you're comfortable making these changes.
 
@@ -79,8 +79,8 @@ Now that were finished here, we'll continue with Shizuku. Shizuku allows you to 
 ## Debloat list
 | Category | Apps |
 | :--- | :--- |
-| **Samsung Bloat** | Bixby, Voice Wake Up, Customisation Service, Galaxy Avatar, Samsung Kids, Samsung News, Smart Switch |
-| **Google/Meta** | Chrome, Gmail, Maps, Meet, Meta App Installer, Meta App Manager, Meta Services |
+| **Samsung Bloat** | Bixby, Voice Wake Up, Bixby Vision, Bixby Vision Framework, Customisation Service, Galaxy Avatar, Samsung News, Smart Switch, Crocro And Friends, Personal data intelligence, Recommended apps, Samsung Visit In, SmartThings Companion, Samsung Kids Installer |
+| **Google/Meta** | Chrome, Gmail, Maps, Meet, Meta App Installer, Meta App Manager, Meta Services, Messages, Google Location History, System Parental Controls, Google Play Services For AR, Android System Intelligence, Live Transcribe & Sound Notifications |
 | **Microsoft** | Microsoft Swiftkey Factory Settings, Microsoft Swiftkey, OneDrive |
 | **System/Other** | Link To Windows, Speech Synthesis, WiFi Tips |
 
