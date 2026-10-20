@@ -20,7 +20,7 @@ This repository contains Android optimization tips, performance tweaks, debloati
 3. [Debloat list](#debloat-list)
 4. [On Linux debloat tutorial](#linux-os-tutorial-adb)
 4. [Recommended apps to use](#recommended-apps-to-use)
-6. [Credits](#credits---app-developers)
+6. [Credits](#credits-&-app-developers)
 7. [Development](#development)
 
 ---
