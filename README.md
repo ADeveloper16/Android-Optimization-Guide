@@ -24,9 +24,9 @@ Before starting let's enable Android Developer options.
 
 1. Open **Settings**.
 
-2. Press on**About phone**.
+2. Press on **About phone**.
 
-3. Tap on**Software information**.
+3. Tap on **Software information**.
 
 4. Tap **Build number** 7 times continuous.
 
@@ -52,7 +52,7 @@ Before starting let's enable Android Developer options.
 
 4. From there you shall see **Build number**
 
-5. Tap **Build numner** 7 times continuous
+5. Tap **Build number** 7 times continuous
 
 6. A Message will appear near Navigation bar that confirming the Dev Options Have been **Enabled**
 
@@ -154,4 +154,4 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 Special thanks to the developers who created these apps. All credit goes to their respective creators.
 ---
 ## Development
-I Will cannot make video tutorials for Xiaomi yet (i dont have a Xiaomi device XD).
+I Will cannot make video tutorials for Xiaomi yet. (i dont have a Xiaomi device XD).
