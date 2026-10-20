@@ -4,38 +4,61 @@
 This repository contains Android optimization tips, performance tweaks, debloating recommendations, and lightweight app alternatives.
 
 ## 📋 Table of contents
-1. [Enable Developer options](#enable-developer-options)
+1. [Enable Developer options on Samsung & Xiaomi Devices](#enable-developer-options-on-samsung-&-xiaomi-devices)
 2. [Performance tweaks](#performance-tweaks)
 3. [Debloat list](#debloat-list)
+4. [On Linux debloat tutorial](#linux-os-tutorial-adb)
 4. [Recommended apps to use](#recommended-apps-to-use)
-5. [Credits](#credits---app-developers)
-6. [On Linux debloat tutorial](#linux-os-tutorial-adb)
+6. [Credits](#credits---app-developers)
+7. [Development](#development)
 
 ---
 
-## Enable Developer options
+## Enable Developer options on Samsung & Xiaomi devices
 
 Before starting let's enable Android Developer options.
 
 ### 📱 On Samsung
 
-⚙ Before we begin you'll need to enable Developer options.
+ ⚙️ Before we begin you'll need to enable Developer options.
 
 1. Open **Settings**.
 
-2. Tap **About phone**.
+2. Press on**About phone**.
 
-3. Tap **Software information**.
+3. Tap on**Software information**.
 
-4. Tap **Build number** 7 times.
+4. Tap **Build number** 7 times continuous.
 
-5. If prompted, please enter your screen lock to unlock Developer options.
+5. If prompted, please enter your **Password** to unlock Developer options.
 
 6. A message will appear confirming that Developer options have been enabled.
 
 7. Return to the main  **Settings** menu.
 
-8. Tap on **Developer options**.
+8. Scroll all the way **Down**
+
+9. Tap on **Developer options**.
+
+### 📱 On Xiaomi
+
+⚙️ Now Lets do it on Xiaomi devices
+
+1. Open **Settings**
+
+2. Press on **My Device**
+
+3. Tap on **Detailed info and specs**
+
+4. From there you shall see **Build number**
+
+5. Tap **Build numner** 7 times continuous
+
+6. A Message will appear near Navigation bar that confirming the Dev Options Have been **Enabled**
+
+7. Go back to main Settings menu Scroll all the way down. until you see an option saying **Additional settings** press on it 
+
+8. Scroll down again until you see Developer Options in Additional settings
 
 ---
 
@@ -130,3 +153,5 @@ After debloating unused apps, consider replacing them with lightweight open-sour
 ## Credits - App Developers
 Special thanks to the developers who created these apps. All credit goes to their respective creators.
 ---
+## Development
+I Will cannot make video tutorials for Xiaomi yet (i dont have a Xiaomi device XD).
