@@ -15,7 +15,7 @@
 This repository contains Android optimization tips, performance tweaks, debloating recommendations, and lightweight app alternatives.
 
 ## 📋 Table of contents
-1. [Enable Developer options on Samsung & Xiaomi Devices](#enable-developer-options-on-samsung-&-xiaomi-devices)
+1. [Enable Developer options on Samsung & Xiaomi Devices](#enable-developer-options-on-samsung--xiaomi-devices)
 2. [Performance tweaks](#performance-tweaks)
 3. [Debloat list](#debloat-list)
 4. [On Linux debloat tutorial](#linux-os-tutorial-adb)
